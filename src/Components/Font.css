@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Neue Normal";
+  src: local("Neue Normal"),
+    url("../assets/Font/neue-Font/NeueHaasDisplayRoman.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}

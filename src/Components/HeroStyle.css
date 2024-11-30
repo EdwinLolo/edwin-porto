@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "Neue Normal";
+  src: local("Neue Normal"),
+    url("../assets/Font/neue-Font/NeueHaasDisplayRoman.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.Typing {
+  white-space: pre-line;
+  font-size: 3em;
+  display: inline-block;
+  /* justify-content: center; */
+
+  /* text-align: center; */
+  color: #282828;
+  /* font-size-adjust: 0.8; */
+  /* font-weight: bold; */
+  font-family: "Neue Normal";
+}
